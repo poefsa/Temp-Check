@@ -4,5 +4,4 @@
 
 This project is for educational purposes only. It respects the terms of service of the websites it interacts with.
 
-#Credits/Author
 Credit: Weather Underground (wunderground.com), owned by The Weather Company, an IBM Business.
